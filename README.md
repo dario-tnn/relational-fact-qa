@@ -70,9 +70,9 @@ Q3 in short: LLM performance is significantly influenced by the structure of the
 
 ## 📁 Dataset
 
-The dataset is available in the [dataset](./dataset/) folder.
+The dataset is available in the [dataset](https://github.com/dario-tnn/relational-fact-qa/tree/main/dataset) folder.
 
-The [RelationalFactQA.csv](./dataset/RelationalFactQA.csv) file contains the queries, while each subfolder contains the ground truth for the query.
+The [RelationalFactQA.csv](https://github.com/dario-tnn/relational-fact-qa/blob/main/dataset/RelationalFactQA.csv) file contains the queries, while each subfolder contains the ground truth for the query.
 
 ### Execution
 
